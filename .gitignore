@@ -1,0 +1,14 @@
+# Unity auto-generated
+Library/
+Logs/
+obj/
+Temp/
+UserSettings/
+
+# Builds
+Build/
+Builds/
+
+# IDE
+.vscode/
+
