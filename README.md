@@ -6,7 +6,7 @@ The Last Bus is a 2D Unity-based game developed as an indie-style project focusi
 
 ** About the Game
 
-Genre: 2D Indie / Horror / Adventure (adjust if needed)
+Genre: 2D Indie / Horror / Adventure 
 
 Engine: Unity
 
