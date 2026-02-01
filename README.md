@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="game_images/image.png" alt="Main Menu" width="500">
+</p>
 
-<img src="game_images/image.png" alt="Main Menu" width="400">
 
 # The Last Bus
 
