@@ -1,4 +1,5 @@
-![logo](game_images/image.png)
+
+<img src="game_images/image.png" alt="Main Menu" width="400">
 
 # The Last Bus
 
