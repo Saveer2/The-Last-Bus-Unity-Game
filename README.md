@@ -1,3 +1,5 @@
+![logo](game_images/image.png)
+
 # The Last Bus
 
 The Last Bus is a 2D Unity-based game developed as an indie-style project focusing on atmosphere, storytelling, and gameplay mechanics.
