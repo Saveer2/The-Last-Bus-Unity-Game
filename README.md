@@ -6,7 +6,7 @@ The Last Bus is a 2D Unity-based game developed as an indie-style project focusi
 
 ---
 
-** About the Game
+## About the Game
 
 Genre: 2D Indie / Horror / Adventure 
 
@@ -18,7 +18,7 @@ Style: Dark, minimal, story-driven
 
 ---
 
-** Features
+## Features
 
 2D gameplay mechanics
 
@@ -32,7 +32,7 @@ Dialogues and story elements
 
 ---
 
-** Tech Stack
+## Tech Stack
 
 Unity Engine
 
@@ -40,7 +40,7 @@ C#
 
 ---
 
-** Purpose of the Project
+## Purpose of the Project
 
 Learn Unity game development
 
@@ -52,12 +52,20 @@ Build a complete playable game
 
 ---
 
-** Note
+## Note
 
 This is an indie / learning project
 
 Assets may be placeholders or self-designed
 
 Game mechanics may evolve over time
+
+---
+
+## Game images
+![img1](game_images/img1.png)<br/>
+![img2](game_images/img2.png)<br/>
+![img3](game_images/img3.png)<br/>
+![img4](game_images/img4.png)<br/>
 
 ---
